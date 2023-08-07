@@ -11,7 +11,7 @@ function App() {
           Tennessee Timer<br /><em>Fun on the Run</em>
       </h1>
      
-      <img src={logo} className="App-logo" alt="logo" />
+      {/* <img src={logo} className="App-logo" alt="logo" /> */}
       <Countdown />
       <RandomShow />
       
