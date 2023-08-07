@@ -1,4 +1,4 @@
-import logo from './IMG_1532.PNG';
+import logo from './IMG_1534.jpg';
 import './App.css';
 import Countdown from './modules/Countdown';
 import RandomShow from './modules/RandomShow';
@@ -10,9 +10,9 @@ function App() {
       <h1>
           Tennessee Timer<br /><em>Fun on the Run</em>
       </h1>
-     
-      <img src={logo} className="App-logo" alt="logo" />
       <Countdown />
+      <img src={logo} className="App-logo" alt="logo" />
+      
       <RandomShow />
       
       </header>
