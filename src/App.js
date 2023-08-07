@@ -1,4 +1,4 @@
-import logo from './NewStarlake2.PNG';
+// import logo from './NewStarlake2.PNG';
 import './App.css';
 import Countdown from './modules/Countdown';
 import RandomShow from './modules/RandomShow';
